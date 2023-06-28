@@ -1,0 +1,5 @@
+1. Actual performance by product, person & team
+2. Variance analysis by person (overall)
+3. Who has most variance in each month?
+4. Which products have highest profit per box?
+5. Forecast sales for next 3 months...
